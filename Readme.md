@@ -90,7 +90,7 @@ The project is programmed using Arduino C/C++ in the Arduino IDE. Communication 
 ## Team Members
 
 * Pranto Ghosh
-* Md. Sibatullah Hosen Rafi
+* Rafi
 
 ## Acknowledgement
 
